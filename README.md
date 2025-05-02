@@ -1,2 +1,3 @@
 # Pokemon-Pokedex
-A Kanto region Pokemon pokedex using react  
+
+A Kanto region Pokemon pokedex using react.js.
